@@ -1,7 +1,7 @@
 <p align="top">
 <img src="header.svg" />
 </p>
-s
+
 &nbsp;
 
 
