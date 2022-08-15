@@ -1,13 +1,13 @@
 <p align="top">
 <img src="header.svg" />
 </p>
-
+s
 &nbsp;
 
 
 <div align="center">
   <a href="https://github.com/JuliaDaphny">
-    <img align="left" alt="pic" height="170em"  border-radius="10em" src="/pudinzinho.jpg">
+    <img align="left" alt="pic" height="170em"  border-radius="10em" src="/Julia.jpg">
 
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=JuliaDaphny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaDaphny&layout=compact&langs_count=7&theme=tokyonight"/>
